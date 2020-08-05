@@ -1,0 +1,43 @@
+.first {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+}
+.a {
+    height: 40px;
+    background-color: royalblue;
+}
+.b {
+    height: 40px;
+    background-color: orange;   
+}
+.c {
+    margin-top: 10px;
+    height: 40px;
+    background-color: peru;
+}
+.d {
+    height: 40px;
+    background-color: aqua;   
+}
+.gridbox {
+    height: 30px;
+    background-color: skyblue;
+    border: 1px solid black;
+}
+.cbox {
+    margin-top: 10px;
+    border: 1px solid black;
+    height: 100px;
+}
+.main-gridbox {
+    margin-top: 10px;
+    height: 100px;
+    border: 2px solid black;
+}
+.child-gridbox {
+    border: 1px solid black;
+    background-color: burlywood;
+    height: 30px;
+}
